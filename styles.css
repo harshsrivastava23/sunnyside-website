@@ -1,0 +1,157 @@
+h1 {
+  font-family: serif;
+  font-weight: 900;
+  padding: 7% 15%;
+  text-align: center;
+}
+
+.header {
+  background-image: url("images/desktop/image-header.jpg");
+  background-size: cover;
+  position: relative;
+  height: 100vh;
+}
+
+#navb {
+  color: #fff;
+  background-color: #3dbeff;
+}
+.navbar a{
+  color: #fff;
+}
+.header h1{
+  color: #fff;
+  font-size: 3rem;
+}
+
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #000000;
+  font-size: 15px;
+  background: #ffffff;
+  padding: 15px 20px 15px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  text-decoration: none;
+}
+
+.Brand {
+  text-align: center;
+  height: 400px;
+  width: 50%;
+  padding: 3% 5%;
+}
+
+.stand-out {
+  padding: 3% 5%;
+  height: 400px;
+  width: 400px;
+}
+
+.details-1 {
+  text-align: left;
+}
+
+.first-h2 {
+  text-align: left;
+  margin-top: 300px;
+  margin-left: 0px;
+}
+
+
+
+.egg {
+  background-image: url("images/desktop/image-transform.jpg");
+  height: 400px;
+  width: 400px;
+  padding: 3% 5%;
+}
+
+.audience {
+  background-image: url("images/desktop/image-stand-out.jpg");
+  height: 400px;
+  width: 400px;
+  padding: 3% 5%;
+}
+
+.graphic-designing {
+  background-image: url("images/desktop/image-graphic-design.jpg");
+  height: 400px;
+  width: 400px;
+  padding: 3% 5%;
+  text-align: center;
+}
+
+.graphic-write {
+  margin-top: 230px;
+}
+
+.photography {
+  background-image: url("images/desktop/image-photography.jpg");
+  height: 400px;
+  width: 400px;
+  padding: 3% 5%;
+  text-align: center;
+}
+
+.photography-write {
+  margin-top: 250px;
+}
+
+.testimonials {
+  text-align: center;
+  padding: 7% 15%;
+}
+
+.testimonial-client {
+  border-radius: 50%;
+  width: 20%;
+  height: 20%;
+}
+.testimonials h3{
+  font-family: serif;
+  font-weight: bold;
+}
+.pic{
+  position: relative;
+  background-size: cover;
+  width: 25%;
+  height: 400px;
+
+}
+.bottles{
+  background-image: url("images/desktop/image-gallery-milkbottles.jpg");
+
+}
+.orange{
+  background-image: url("images/desktop/image-gallery-orange.jpg");
+
+}
+.cone{
+  background-image: url("images/desktop/image-gallery-cone.jpg");
+
+}
+.sugarcubes{
+  background-image: url("images/desktop/image-gallery-sugarcubes.jpg");
+
+}
+
+footer{
+  padding: 7% 15%;
+  background-color: #01937C;
+  text-align: center;
+}
+footer a{
+  padding: 0 3%;
+  font-family: serif;
+  font-weight: 500;
+  color: black;
+}
+.icons{
+  margin: 8px;
+}
